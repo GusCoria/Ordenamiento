@@ -4,9 +4,7 @@ import java.util.List;
 import java.io.*;
 /**
     *Esta clase ordena archivos por medio de numero de cuenta
-    *@author: Pablo Giovanni Constantino Cruz
     *@author: Gustavo Coria Martinez
-    *@author: Dulce María López Galicia
     *@version: 10.24.2021 
 
 */
