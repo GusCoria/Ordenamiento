@@ -3,9 +3,7 @@ import java.util.LinkedList;
 import java.io.*;
 /**
     *Esta clase ordena archivos por medio de apellidos y utiliza el metodo de ordenamiento externo polifase
-    *@author: Pablo Giovanni Constantino Cruz
     *@author: Gustavo Coria Martinez
-    *@author: Dulce María López Galicia
     *@version: 10.24.2021 
 
 */
