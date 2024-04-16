@@ -4,6 +4,12 @@ import java.util.LinkedList;//listas de listas
 import java.util.Scanner;//datos que escribe el usuario desde el teclado
 import java.nio.file.Path;
 import java.nio.file.Files;
+/**
+    *Clase principal con las opciones de los algortimos de ordenamiento de polifase, mezcla equilibrada y radix
+    *@author: Gustavo Coria Martinez
+    *@version: 10.24.2021 
+
+*/
 
 public class Main{
     public static void main(String[] args)throws IOException{//leer escaner del dielreader
