@@ -1,8 +1,6 @@
 /**
     *Esta clase esta hecha para tener objetos de tipo esclavo que contengan: nombre, apellidos y numero de cuenta
-    *@author: Pablo Giovanni Constantino Cruz
     *@author: Gustavo Coria Martinez
-    *@author: Dulce María López Galicia
     *@version: 10.24.2021 
 
 */
