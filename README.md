@@ -12,33 +12,37 @@ Para utilizar este algoritmo, llama al método `Radixd(List<Esclavo> lista1)` de
 
 El resultado se imprimirá en un archivo llamado Radix.txt.
 
-##Búsqueda Equilibrada
+## Búsqueda Equilibrada
 
 El algoritmo de Búsqueda Equilibrada ordena archivos por número de cuenta utilizando el método de búsqueda equilibrada.
 
-###Uso
+### Uso
 
 Para utilizar este algoritmo, llama al método BusquedaEquilibrada(List<Esclavo> lista) de la clase BusquedaEquilibrada, pasando la lista que deseas ordenar como argumento.
 
 El resultado se imprimirá en un archivo llamado BusquedaEquilibrada.txt.
 
-##Polifase
+## Polifase
 
 El algoritmo de Polifase ordena archivos por apellidos utilizando el método de ordenamiento externo polifase.
 
-###Uso
+### Uso
 
 Para utilizar este algoritmo, llama al método Poli(List<Esclavo> a) de la clase Polifase, pasando la lista que deseas ordenar como argumento.
 
 El resultado se imprimirá en un archivo llamado Polifase.txt.
 
-###Autor
+**Autor**
 
-Gustavo Coria Martinez
+**Gustavo Coria Martinez**
 
-###Versión
+Versión
 
 10.24.2021
 
 ###Contribuir
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Siéntete libre de bifurcar este repositorio y enviar solicitudes de extracción con tus mejoras.
+
+
+
+
