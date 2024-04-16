@@ -40,7 +40,8 @@ Versión
 
 10.24.2021
 
-###Contribuir
+### Contribuir
+
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Siéntete libre de bifurcar este repositorio y enviar solicitudes de extracción con tus mejoras.
 
 
